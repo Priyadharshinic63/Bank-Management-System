@@ -3,7 +3,7 @@ import pymysql
 connect=pymysql.connect(
     host='localhost',
     user='root',
-    password='6383',
+    password='xxxx',
     database='bank'
     )
 
